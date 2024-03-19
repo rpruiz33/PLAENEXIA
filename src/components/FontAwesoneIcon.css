@@ -1,0 +1,45 @@
+
+
+
+  .icon-linkedin {
+    color: black;
+    margin-right: 146px;
+  }
+  
+  .icon-facebook {
+    color: black;
+    margin: 2px 100px 0px -14px;
+  }
+    @media (max-width: 1433px) 
+    {.icon-facebook{
+        margin: 6px -81px 5px 43px;
+    }
+    }
+      
+    
+
+    @media (min-width: 768px) {
+        .icon-facebook
+        {
+        margin: 6px 100px 5px 100px;
+    }
+        
+      }
+  
+  
+  .icon-instagram {
+    color: black;
+    margin: 0px -10px 0px 0px;
+  }
+    @media (min-width: 340px) {
+      .icon-facebook
+      {
+        margin: 8px 100px 5px -42px;
+    }
+
+
+    .icon-instagram {
+      color: black;
+      margin: 0px -10px 0px -151px;
+  }
+}
